@@ -27,7 +27,7 @@ A simple command-line calculator built using Python. It performs basic arithmeti
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/geeky-pravo/Calculator-in-Python.git
 ```
 
 ### 2. Navigate to the project folder
@@ -83,7 +83,7 @@ This project was created as part of my Python learning journey to practice funda
 
 **Praveen Kumar Gupta**
 
-- GitHub: [@hated-pravo](https://github.com/hated-pravo)
+- GitHub: [@geeky-pravo](https://github.com/geeky-pravo)
 
 ---
 
